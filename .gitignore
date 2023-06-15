@@ -19,6 +19,9 @@ node_modules
 !*.md
 !*.json
 !*.java
+!*.py
+!*.bashrc
+
 
 # Specific files
 !.gitignore
